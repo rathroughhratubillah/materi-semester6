@@ -4,6 +4,10 @@
 2.create our security group in ssh chose my.ip
 ![alt text](image-1.png)
 
+port 
+
+<img width="1329" height="347" alt="image" src="https://github.com/user-attachments/assets/7df3ff96-0f03-474e-99c6-c4652903346b" />
+
 3.create our cloudwatch
 ![alt text](image-2.png)
 
