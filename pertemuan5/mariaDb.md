@@ -8,7 +8,8 @@ Install MariaDb (sudo apt install mariadb-server -y)
 
 Cek status MariaDb (sudo systemctl status mariadb)
 
-![alt text](image.png)
+<img width="1442" height="487" alt="image" src="https://github.com/user-attachments/assets/7903a472-a606-4b44-8055-94b3fdc56014" />
+
 
 Test Default Setting database server login sudo mysql -u root -p
 ![alt text](image-1.png)
