@@ -25,7 +25,6 @@ Reload privilege tables = Y
 
 <img width="833" height="1030" alt="image-6" src="https://github.com/user-attachments/assets/ba5cceca-fedf-4823-abfe-0f7be3ad3ad8" />
 
-
 Reload privilege tables = Y alt text
 Create DB untuk Website Company Profile
 Login sebagai root
@@ -37,10 +36,10 @@ Create DB nama dbcompro_NIM => CREATE DATABASE dbcompro_NIM;
 Create User dengan nama = usrcompro_NIM dan password = [PASSWORD] => CREATE USER 'usrcompro_NIM'@'localhost' IDENTIFIED BY '[PASSWORD]'; alt text
 Grant user akses ke DB yang baru dibuat => GRANT ALL PRIVILEGES ON dbcompro_NIM.* TO 'usrcompro_NIM'@'localhost';
 Flush privileges => FLUSH PRIVILEGES;
-
-<img width="689" height="400" alt="image-4" src="https://github.com/user-attachments/assets/11e37f26-dbd9-4404-9a14-a6b3ad221068" />
-
 exit;
+
+<img width="689" height="400" alt="image-4" src="https://github.com/user-attachments/assets/b7bc3655-6ee6-4cb3-90a7-1e95e4440387" />
+
+
 login sebagai usrcompro_NIM dan cek apakah bisa akses ke DB yang baru dibuat
 
-foto
