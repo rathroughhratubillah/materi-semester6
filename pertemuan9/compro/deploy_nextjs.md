@@ -18,4 +18,4 @@ password: admin123
 Create static fFIle -> 'npm run build'
 
 Archive Folder standalone -> ZIP -> klik kanan folder sandalone -> send to -> compressed (zuooed) folder.
-blob:https://web.whatsapp.com/313d5be2-6276-4ecf-bfc7-047692e66a98
+313d5be2-6276-4ecf-bfc7-047692e66a98 (1).jfif
