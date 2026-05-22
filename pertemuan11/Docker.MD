@@ -5,4 +5,5 @@ Uninstall Docker old version (sudo apt remove $(dpkg --get-selections docker.io 
 Set up Apt Docker
 Install Docker Engine
 Cek Docker -> systemctl status docker
-https://raw.githubusercontent.com/rathroughhratubillah/materi-semester6/e2d37c999fd5536ac3f4fd87b702f3efad805f01/pertemuan11/image-1.png
+
+![Docker Setup](image-1.png)
