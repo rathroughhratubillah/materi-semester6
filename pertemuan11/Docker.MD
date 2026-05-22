@@ -16,7 +16,7 @@ create repo -> (hub->repo->New)
 Create Tokens ( Klik Profile-> Account Setting -> Security -> Access Tokens -> Generate new token)
 Simpan token jangan sampai hilang
 
-![Docker Setup](image-2.png)
+![Docker Setup](docker2.png)
 
 Create Repo di Github
 Membuat Repo baru dengan nama himafor_nim
@@ -30,7 +30,7 @@ AWS_USERNAME isi username EC2 AWS kamu (ubuntu)
 AWS_PRIVATE_KEY isi private key
 AWS_HOST isi public IP EC2 AWS kamu
 
-![Docker Setup](image-3.png)
+![Docker Setup](docker3.png)
 
 Membuat Resep lingkungan Pengembangan (Dockerfile)
 Buat file Dockerfile di root repo kamu
@@ -44,6 +44,8 @@ Stop dan disable nginx -> sudo systemctl stop nginx
 sudo systemctl disable nginx
 add ubuntu to docker group -> sudo usermod -aG docker ubuntu
 commit dan push -> dan cek di website
+
+![Docker Setup](docker4.png)
 
 ![Docker Setup](image-4.png)
 
