@@ -47,7 +47,7 @@ commit dan push -> dan cek di website
 
 ![Docker Setup](docker4.png)
 
-![Docker Setup](image-4.png)
+
 
 
 
