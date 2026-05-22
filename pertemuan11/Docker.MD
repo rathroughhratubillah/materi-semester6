@@ -6,10 +6,8 @@ Set up Apt Docker
 Install Docker Engine
 Cek Docker -> systemctl status docker
 
+![Docker Setup](docker1.png)
 
-## Install Docker
-
-![Docker](https://raw.githubusercontent.com/rathroughhratubillah/materi-semester6/main/pertemuan11/docker-install.jpeg)
 
 
 Create Gudang / Repo di Docker Hub https://hub.docker.com/
