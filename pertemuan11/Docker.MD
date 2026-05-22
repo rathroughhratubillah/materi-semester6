@@ -6,7 +6,7 @@ Set up Apt Docker
 Install Docker Engine
 Cek Docker -> systemctl status docker
 
-pertemuan11/docker-install.jpeg
+https://github.com/rathroughhratubillah/materi-semester6/blob/main/pertemuan11/docker-install.jpeg?raw=true
 
 
 
