@@ -8,6 +8,8 @@
     - Password: [PASSWORD]
     - Port: 22
     - Klik Connect
+  
+      ![alt text](image-14.png)
 4. Remote SSH via PowerShell Windows
     - masuk folder penyimpanan private key
     - open with -> powershell
@@ -20,7 +22,7 @@
     - buka file index.html dengan code editor
     - akan gagal melakukan editing - Permission denied
     - karena kita masuk user ubuntu tidak punya akses untuk write
-    ![alt text](image-14.png)
+
 6. Ubah Hak Akses Folder Web Services Area
     - ke Terminal PowerShell
     - masukan command (sudo chown -R ubuntu:ubuntu /var/www/html)
