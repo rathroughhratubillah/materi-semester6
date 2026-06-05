@@ -12,6 +12,8 @@
     - masuk folder penyimpanan private key
     - open with -> powershell
     - masukan command (ssh -i nama file-Private-Key.pem ubuntu@[IP_ADDRESS])
+  
+       ![alt text](image-13.png)
 5. DIrectori Folder Cloud arahakan ke Folder Web Services Area
     - Keluar dari directori /home/ubuntu
     - Masuk ke direktori /var/www/html
