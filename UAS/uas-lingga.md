@@ -29,14 +29,7 @@
 
     BUAT PERSONAL ACCES TOKEN
 ![alt text](image-4.png)
-### 5. Login Docker ke EC2 Melalui PowerShell
-    "docker login -u gamine1"
-    (Saat diminta password, paste Docker Hub access token, bukan password akun biasa.)
 
-    BUILD IMAGE DARI PROJECT
-    Pastikan Posisi Folder di (cd ~/uas-cloud)
-    lalu build "docker compose build static-cv dynamic-app"
-    lalu push image ke docker hub "docker compose push static-cv dynamic-app"
 ![alt text](image-5.png)
 ### 6. Set Up Github
     Buat Repository Baru di Github - lalu push
